@@ -9,44 +9,44 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: Asia/Seoul
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Rn's BLOG # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Rn's BLOG # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Rn's BLOG
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://thak1411.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: thak1411 # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: thak1411 # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Rn
+  email: thak1411@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://twitter.com/thak1411 # change to your Twitter homepage
+    - https://github.com/thak1411 # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
 # Site Verification Settings
 webmaster_verifications:
-  google: # fill in your Google verification code
+  google: google5b6ee4db8b095def.html # fill in your Google verification code
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
@@ -59,7 +59,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: G-M9RDRW5WLV # fill in your Google Analytics ID
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
